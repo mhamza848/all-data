@@ -1,0 +1,418 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap');
+*
+{
+	font-family: sans-serif;
+}
+
+body
+{
+	width: 100%;
+	overflow-x: hidden;
+}
+
+header
+{
+	border-bottom: 1px solid #eee;
+}
+
+.h6
+{
+	margin-top: 37.5px;
+}
+
+h2
+{
+	text-align: center;
+	margin-top: 24.5px;
+	margin-bottom: 13px;
+}
+
+.fa-search
+{
+	margin-left: 20px;
+}
+
+.fa-shopping-cart
+{
+	margin-left: 15px;
+}
+
+/*End The Header*/
+
+.navbar{
+	margin-left: 280px;
+    margin-bottom: 1px;
+}
+
+ul
+{
+	/*width: auto;
+	float: right;*/
+	margin-top: 8px;
+	margin-left: 10px;
+	font-size: 12px;
+}
+
+li
+{
+	display: inline-block;
+	padding: 15px 15px;
+}
+
+.dps
+{
+	text-align: center;
+	color:   black;
+	text-decoration: none;
+	letter-spacing: 2px;
+	text-style: none;
+}
+/*End The Nav Bar*/
+
+#female
+{
+	background: #9E9E9E;
+	margin-top: -5px;
+	padding: 150px;
+}
+
+h1
+{
+	display: flex;
+	justify-content: center;
+	font-size: 50px;
+	color: #ffffff;
+	text-align: center;
+}
+
+p
+{
+	color: #ffffff;
+	display: flex;
+	justify-content: center;
+	font-size: 23px;
+	margin-top: -10px;
+}
+
+button
+{
+	/*padding: 8px 15px;
+	font-size: 12px;
+	line-height: 1.3333333;*/
+	border-radius: 6px;
+	margin-left: 360px;
+	margin-right: -355px;
+}
+ 
+
+/*End The Center Section*/
+
+.col-md-6
+{
+	background-color: #E6E6E6;
+	width: 50%;
+	margin: 10px 6px;
+}
+
+.egg
+{
+	color: black;
+	margin-top: 75px;
+    font-size: 35px;
+    text-align: center;
+    font-weight: bolder;
+    margin-bottom: 75px;
+}
+
+.pc
+{
+	color: black;
+	font-size: 20px;
+    margin-top: -70px;
+    text-align: center;
+}
+
+/*End The Box Section*/
+
+.box
+{
+	padding: 65px;
+}
+
+.hp
+{
+	font-size: 18px;
+	text-align: center;
+}
+
+.abs
+{
+    color: #fff;
+    background: #f13554;
+    width: 45px;
+    height: 43px;
+    border-radius: 50px;
+    position: absolute;
+    top: -10px;
+    right: 3px;
+}
+
+.abg
+{
+	color: #fff;
+    background: #f13554;
+    width: 45px;
+    height: 43px;
+    border-radius: 50px;
+    position: absolute;
+    margin-left: 135px;
+    margin-top: -10px;
+}
+
+.abg p
+{
+	font-size: 14px;
+	margin-top: 10px;
+}
+
+.abs p
+{
+	font-size: 14px;
+	margin-top: 10px;
+}
+
+.font
+{
+	text-align: center;
+	font-size: 15px;
+}
+
+.btn-btn-sm
+{
+	background: #649D49;
+    color: #fff;
+    margin-left: 30px;
+    margin-top: 35px;
+}
+
+.df
+{
+	color: #fff;
+	margin-left: 9px;
+	margin-top: 8px;
+}
+
+.hum
+{
+	background: #888;
+    width: 30px;
+    height: 30px;
+    border-radius: 20px;
+}
+/*End The Double Box Section*/
+
+#hlo
+{
+	font-family: 'Dancing Script', cursive;
+	background: #E6E6E6;
+	width: 100%;
+	overflow: hidden;
+	padding: 210px 10px;
+	margin-top: 50px;
+}
+
+.asp
+{
+	color: #5E9341;
+	margin-top: -145px;
+	font-family: 'Dancing Script', cursive;
+	font-size: 85px;
+}
+
+.psa
+{
+	color: #5E9341;
+    margin-left: -410px;
+    margin-top: 30px;
+    font-weight: bold;
+}
+
+.fa-users
+{
+	background: #5E9341;
+    color: #fff;
+    width: 40px;
+    height: 40px;
+    border-radius: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding-left: 8px;
+    padding-top: 6px;
+}
+
+.fa-home
+{
+	background: #5E9341;
+    color: #fff;
+    width: 40px;
+    height: 40px;
+    border-radius: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding-left: 8px;
+    padding-top: 6px;
+}
+
+.text-box
+{
+	position: absolute;
+	width: 30%;
+    margin-left: 425px;
+    margin-top: 100px;
+    height: 210px;
+	padding: 40px;
+	background-color: #fff;
+}
+
+.mob
+{
+	font-size: 35px;
+    margin-left: 50px;
+}
+
+.phone
+{
+	padding: 8px 15px;
+    font-size: 12px;
+    line-height: 1.333333;
+    border-radius: 6px;
+    margin-left: 640px;
+    background-color: #659C48;
+    color: #ffffff;
+    margin-left: 155px;
+    margin-top: 15px;
+}
+
+.sad
+{
+	 color: #ffffff;
+	 background-color: #659C48;
+	 margin-left: 90px;
+}
+
+/*End The Deal of the day*/
+
+.top
+{
+	font-size: 17px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.waited
+{
+	color: black;
+	margin-top: 150px;
+	font-weight: 550;
+}
+
+.asd
+{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	text-align: center;
+}
+
+.left
+{
+	color: black;
+    font-size: 15px;
+    text-align: center;
+    margin-bottom: 45px;
+}
+
+/*End The Choose Section*/
+
+
+
+h5
+{
+	color: black;
+	margin-left: 60px;
+	margin-top: 30px;
+	color: #AFBBA5;
+}
+
+img
+{
+	width: 50px;
+	margin-left: 100px;
+}
+
+/*End The Customer Section*/
+
+footer
+{
+	
+	background: #333333;
+	padding-top: 50px;
+	margin-top: 100px;
+}
+
+.you
+{
+	color: #fff;
+	margin-left: 40px;
+}
+
+.div
+{
+	color: #fff;
+	margin-left: -20px;
+
+}
+
+.low
+{
+	color: #fff;
+	text-align: left;
+}
+
+.lw
+{
+	color: #fff;
+	font-size: 14px;
+	text-align: left;
+	
+}
+
+.usman
+{
+	margin-left: 20px;
+	width: 100px;
+	margin-top: -15px;
+}
+
+.up
+{
+	color: #ffffff;
+    font-size: 15px;
+    margin-top: 30px;
+    margin-left: 45px;
+    float: left;
+}
+
+.shab li
+{
+	width: 40px;
+	height: 40px;
+	border-radius: 25px;
+	background: #fff;
+	color: #619A49;
+}
+
+.shab li a
+{
+	padding: auto;
+}

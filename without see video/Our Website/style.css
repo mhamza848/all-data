@@ -1,0 +1,394 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap');
+*
+{
+	font-family: sans-serif;
+}
+
+#topnav
+{
+	background: #333;
+	color: #fff;
+	padding-bottom: 7px;
+}
+
+#topnav #top .row .col-md-3 h3
+{
+	font-size: 13px;
+	margin-right: -28px;
+}
+
+#topnav #top .row .col-md-4 h3
+{
+	font-size: 13px;
+	margin-left: 50px;
+}
+
+#topnav #top .row .col-md-2
+{
+	margin-top: 15px;
+	letter-spacing: 7px;
+}
+
+.col-md-2 .shoe a
+{
+	color: #fff;
+	margin-top: 15px;	
+}
+
+/*End The Top Nav*/
+
+header
+{
+	width: 100%;
+	height: 72px;
+	background-color: #fff;
+}
+
+.base
+{
+	position: absolute;
+	padding: 3px;
+	float: left;
+	margin-left: -3.5px;
+	margin-top: 10px;
+	color: black;
+	font-weight: 700;
+}
+
+ul
+{
+	width: auto;
+	float: right;
+	margin-top: 8px;
+	margin-left: -20px;
+}
+
+
+
+li
+{
+	display: inline-block;
+	padding: 15px 15px;
+}
+
+.dps
+{
+	text-align: center;
+	color:   black;
+	text-decoration: none;
+	letter-spacing: 2px;
+	text-style: none;
+}
+
+/*End The Nav Bar*/
+
+#mouse
+{
+	background: black;
+}
+
+#experts
+{
+	position: relative;
+	text-decoration: none;
+	margin-top: -5px;
+}
+
+.cpu
+{
+	position: relative;
+	font-size: 1.8em;
+	top: 10px;
+	left: 250px;
+	box-sizing: border-box;
+	color: #fff;
+	background-color: black;
+	margin-bottom: 20px;
+	margin-left: -230px;
+}
+
+strong
+{
+	font-weight: revert;
+	font size: 1.8em;
+}
+
+.border-underline
+{
+	color: #fff;
+	text-align: center;
+	padding-right: 155px;
+	font-weight: 300;
+	margin-top: -55px;
+	word-wrap: break-word;
+	margin-left: -525px;
+}
+
+.hamza
+{
+	position: relative;
+	color: #fff;
+}
+
+button
+{
+	position: relative;
+	margin-top: 10px;
+	padding: 10px 20px;
+	text-decoration: none;
+	border: 2px solid #fff;
+	color: black;
+	transform: translateY(-50px);
+	left: 250px;
+	margin-left: -225px;
+}
+
+/*End The Expert Nav*/
+
+#stop #run h1
+{
+	text-align: center;
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+
+#stop #run .row .col-md-4 .box,
+#stop #run .row .col-md-3 .box
+{
+	border: 2px solid gray;
+	background: gray;
+	padding-top: 150px;
+}
+
+#stop #run .row .col-md-4 .content,
+#stop #run .row .col-md-3 .content
+{
+	border: 1px solid 0c3346;
+	background: #0c3346;
+	color: #fff;
+	padding: 15px;
+}
+
+/*End The Box Section*/
+
+#same
+{
+	background: #ddd;
+	margin-top: 50px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+#same #unsame .fly
+{
+	text-align: center;
+}
+
+#same #unsame .row .col-md-2 h5
+{
+	color: black;
+}
+
+h5
+{
+	font-size: 20px;
+}
+
+h5 i
+{
+	color: #318d8f;
+}
+
+#same #unsame .row .col-md-3 .chair
+{
+	margin-left: 31px;
+    font-size: 13px;
+    color: black;
+}
+
+/*End The Choose Section*/
+
+#main
+{
+	background: #0c3346;
+}
+
+#umain
+{
+	background: #0c3346;
+}
+
+.call
+{
+	color: #fff;
+	padding-top: 35px;
+	margin-left: -85px;
+	text-decoration: underline;
+	font-weight: 600;
+	font-family: system-ui;
+}
+
+.sit
+{
+	color: #e8e8e8;
+	font-size: 0.8em;
+	padding-top: 10px;
+	margin-left: -85px;
+}
+
+#exampleInputName3
+{
+	margin-top: 60px;
+	border-radius: inherit;
+	margin-left: 5px;
+	padding: 20px;
+	width: 120%;
+	margin-left: 40px;
+}
+
+#exampleInputName4
+{
+	border-radius: inherit;
+	margin: -20px;
+	padding: 20px;
+	margin-top: -5px;
+	margin-left: 40px;
+	width: 120%;
+}
+
+#exampleInputName5
+{
+	border-radius: inherit;
+	margin-top: 60px;
+	width: 120%;
+	margin-left: 105px;
+	padding: 20px;
+}
+
+.subm
+{
+	background: #03a9f4;
+	border: 1px solid #03a9f4;
+	color: #fff;
+	margin-top: 0;
+	outline: none;
+	padding-top: 7px;
+	padding-bottom: 7px;
+	padding-right: 35px;
+	padding-left: 35px;
+	margin-top: 45px;
+    margin-left: -145px;
+}
+
+.btne:focus
+{
+	outline: none;
+}
+
+/*End The Call Section*/
+
+.abbas
+{
+	background: black;
+	padding: 20px 0 20px 0;
+}
+
+section .text-box
+{
+	color: #fff;
+	border: 1px solid black;
+	padding: 40px;
+	background-color: #eee;
+	/*margin-top: 20px;
+	margin-bottom: 20px;*/
+	margin: 20px 0 20px 0;
+}
+
+.case
+{
+    margin-left: 10px;
+    font-size: 15px;
+    text-align: center;
+    margin-top: -43px;
+    line-height: 25px;
+    margin-right: 10px;
+    color: #000;
+}
+
+.shell
+{
+	font-size: 50px;
+	color: #50c2d4;
+	margin-left: -10px;
+}
+
+h6
+{
+	color: gray;
+	text-align: center;
+}
+
+/*End The Center Box Section*/
+
+#hlo
+{
+    background: #29b1bf;
+	padding-bottom: 25px;
+}
+
+.hi
+{
+    align-items: center;
+    text-align: center;
+    margin-top: 20px;
+    padding-top: 60px;
+}
+
+.abs
+{
+	font-size: 1.3em;
+	color: #fff;
+	align-items: center;
+    text-align: center;
+}
+
+/*End The Paragraph Section*/
+
+#foot
+{
+	background: black;
+}
+
+#foot #fote .row .col-md-4 h2
+{
+	color: #fff;
+	font-weight: 700;
+}
+
+p
+{
+	color: #fff;
+}
+
+.town
+{
+	color: #fff;
+	margin-top: 30px;
+    margin-left: 90px;
+}
+
+.go
+{
+	color: #fff;
+	margin-top: 65px;
+	margin-right: 240px;
+}
+.footer-list ul ol {
+	padding-bottom: 7px;
+	margin-right: 50px;
+	color: #383434;
+}
+
+#fote p {
+	color: #383434;
+}

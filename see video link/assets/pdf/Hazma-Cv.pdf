@@ -1,0 +1,15 @@
+git init
+git add .
+git status
+git commit -m "add tag"  
+git config --global user.email "m.hamza4736@gmail.com"
+git config --global user.name "mhamza848"
+
+git remote add origin https://github.com/mhamza848/work.git
+git push -u origin main
+
+PASSWORD OR EMAIL OF GIT
+E=m.hamza4736@gmail.com
+P=m0321hamza
+
+git remote rm origin
